@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21351da5f39383b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prova 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fb2b55a07ee6f52",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "file": "Prova 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "file": "Prova 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md"
+                "file": "Prova 1.md"
               }
             }
           }
@@ -148,8 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "597f636078f99e09",
+  "active": "21351da5f39383b7",
   "lastOpenFiles": [
+    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+    "Prova 1.md",
     "Images/Pasted image 20241004113531.png",
     "Compilatori, Intepretatori, Assemblatori.md",
     "Lezioni/4° Lezione (Algebra Booleana).md",
@@ -159,11 +173,9 @@
     "Images/Pasted image 20241004123709.png",
     "Images/Pasted image 20241004123530.png",
     "Images/Pasted image 20241004123401.png",
-    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
     "Images/Pasted image 20241004121959.png",
     "Images/Pasted image 20241004121942.png",
     "Images/Pasted image 20241004121750.png",
-    "Images/Pasted image 20241004115935.png",
     "Lezioni/3° Lezione.md",
     "Lezioni/2° Lezione (27,09,2024).md",
     "Lezioni/1° Lezione (24,09,2024).md",
