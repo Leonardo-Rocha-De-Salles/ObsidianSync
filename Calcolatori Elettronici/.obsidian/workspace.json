@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a4aee71b657a7de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47aa580be9a59ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597f636078f99e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7918982d09e2dcc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca225008214ff5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a52b3f0037dc29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daaa28a9315dedfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3085ece82211acd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2fb2b55a07ee6f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac5075c7ba59cb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab9d790b1609ea9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67e55a99e8238983",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c1d361523f6bb97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58250ec38210a07b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "597f636078f99e09",
+  "lastOpenFiles": [
+    "Images/Pasted image 20241004113531.png",
+    "Compilatori, Intepretatori, Assemblatori.md",
+    "Lezioni/4° Lezione (Algebra Booleana).md",
+    "Images/Pasted image 20241004124125.png",
+    "Images/Pasted image 20241004123933.png",
+    "Images/Pasted image 20241004123812.png",
+    "Images/Pasted image 20241004123709.png",
+    "Images/Pasted image 20241004123530.png",
+    "Images/Pasted image 20241004123401.png",
+    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+    "Images/Pasted image 20241004121959.png",
+    "Images/Pasted image 20241004121942.png",
+    "Images/Pasted image 20241004121750.png",
+    "Images/Pasted image 20241004115935.png",
+    "Lezioni/3° Lezione.md",
+    "Lezioni/2° Lezione (27,09,2024).md",
+    "Lezioni/1° Lezione (24,09,2024).md",
+    "Welcome.md",
+    "Esericizi/Tipologie di esercizi.md",
+    "Esericizi",
+    "Images",
+    "Excalidraw/Drawing 2024-09-24 11.51.10.excalidraw.md",
+    "Excalidraw",
+    "Lezioni"
+  ]
+}
