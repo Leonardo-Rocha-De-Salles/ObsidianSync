@@ -1,3 +1,8 @@
+
+# Cos'è un version Control
+
+Un version control system è un programma che permette la gestione dei cambiamenti di una serie di file, un suo obiettivo è quello di poter tornare a versioni precedenti di possibilmente un intero progetto e far lavorare insieme membri di un team.
+
 Lo sviluppo di applicazioni avviene nel tempo con contributo di squadre di sviluppatori.
 Per uno sviluppo efficiente e sostenibile è necessario:
 - tenere traccia dell'evoluzione del codice sorgente e della documentazione
@@ -58,6 +63,25 @@ La creazione o modifica di un file possono essere non tracciati, al di fuori del
 
 
 
+
+
+# Git Terminology
+
+- Working tree: l'insieme di tutte le directory e file che contengono il progetto
+- Repository: La directory locata al livello più alto del working tree, dove Git mantiene tutte la storia del meta data.
+- Hash : riproduce i contenuti di un file tramite un sequenza di 160 bit
+- Object : Una git repository ne contine 4 tipi, blob object che contiene file normali, tree object che rappresenta una directory con nomi, hashes, permissioni. Un commit object che rappresenta una specficia versione del wokring tree. A tag object è il nome del commit
+- Commit: l'azione significa di far confermando i cambiamenti fatti.
+- Branch : Un branch è nominato da una serie di commit collegati. Il commit più recente di un branch si chiama head.
+  Il branch default della repository è il main oppure master.  I branches permettono ai developer di lavorare indipendetemente in brancher e dopo unirli.
+- Remote : quando crei una repo, git crea un remote chiamato origin dove i push e pull operations avvengono
+
+
+
+
+
+
+
 # Github
 E' il sito che ospita copie dei repository *git*.
 ## Differenza fra git e github
@@ -89,7 +113,7 @@ git add README.md
 git commit -m "initial project version"
 ```
 git init crea la cartella necessaria a mettere in comunicazione la nostra cartella con git.
-git add README.md dice a git che il file pre esistende readme adesso è da "controllare", ovvero è nel passo Staged. Ogni volta da adesso in poi che scriviamo per esempio *git status*, git ci dirà se un nostro file **staged** è stato modificato o meno.
+git add README.md dice a git che il file pre esistende readme adesso è da "controllare", ovvero è lo sposta nella Staged Area. Ogni volta da adesso in poi che scriviamo per esempio *git status*, git ci dirà se un nostro file **staged** è stato modificato o meno.
 git commit -m "Message" farà uscire i nostri file added dallo staged al commit type, questo significa che è come se salvassimo tutte le modifiche applicate, preparandole ad essere inviate.
 Facendo git log possiamo vedere tutti i commit applicati.
 **git diff** ci fa vedere quello che è rimasto inalterato.
@@ -158,3 +182,15 @@ Creare multipli rami di lavoro chiamati *branch*, per crearlo:
 # Comandi git
 
 ![[Pasted image 20241004121750.png]]![[Pasted image 20241004121959.png]]
+
+
+
+# Che cos'è GitHub
+## Repository
+Contiene tutti i project files e le loro versioni.
+https://learn.microsoft.com/en-us/training/modules/introduction-to-github/2-what-is-github
+
+
+## Pull Request
+Una pull request è un metodo per indicare che i commit di un Branch sono pronti ad essere merged con un altro branch.
+![[Pasted image 20241006210422.png]]

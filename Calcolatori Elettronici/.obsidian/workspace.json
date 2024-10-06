@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "cd48fc4f0140ba70",
+    "id": "8d77d399c77d45cf",
     "type": "split",
     "children": [
       {
-        "id": "d3fb1b3cc6df9a00",
+        "id": "2bbb1b4407acc05d",
         "type": "tabs",
         "children": [
           {
-            "id": "321051400d427261",
+            "id": "9c6744f02fdb3c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Lezioni/3° Lezione.md",
-=======
                 "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
->>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3810e59b7dfee2f",
+    "id": "f5db5d85d35d5016",
     "type": "split",
     "children": [
       {
-        "id": "2ffbeaa0f3761a9d",
+        "id": "7da215b035f401fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4b56deda89a4e564",
+            "id": "4ac4f8ac9350f46e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "2963ae06c3918815",
+            "id": "42791c0f705bf4f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "5f28766b395fde0e",
+            "id": "1ec52ad3e1d405e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "04e4e48723789bb3",
+    "id": "af8a4d489b1395f2",
     "type": "split",
     "children": [
       {
-        "id": "dcee32089ca5af73",
+        "id": "41b96822cb717bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa65c95c63022b65",
+            "id": "ed8734c2c34e8adf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Lezioni/3° Lezione.md",
-=======
                 "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
->>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +97,19 @@
             }
           },
           {
-            "id": "a72a048778fe3991",
+            "id": "cd7cafac0e903f0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Lezioni/3° Lezione.md",
-=======
                 "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
->>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42ed526002533484",
+            "id": "e99ab59b4f58e5d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,16 +120,12 @@
             }
           },
           {
-            "id": "ec7e38e967f4c8f1",
+            "id": "1baf01a61ed1a8ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Lezioni/3° Lezione.md"
-=======
                 "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md"
->>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
               }
             }
           }
@@ -164,21 +147,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "321051400d427261",
+  "active": "9c6744f02fdb3c72",
   "lastOpenFiles": [
-=======
-  "active": "597f636078f99e09",
-  "lastOpenFiles": [
-    "Prova 1.md",
-    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
-    "Images/Pasted image 20241004113531.png",
-    "Compilatori, Intepretatori, Assemblatori.md",
->>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
-    "Lezioni/4° Lezione (Algebra Booleana).md",
-    "Lezioni/2° Lezione (27,09,2024).md",
-    "Prova 1.md",
-    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
-    "Compilatori, Intepretatori, Assemblatori.md"
+    "Pasted image 20241006210422.png"
   ]
 }
