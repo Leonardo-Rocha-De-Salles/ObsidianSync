@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "a4aee71b657a7de2",
+    "id": "cd48fc4f0140ba70",
     "type": "split",
     "children": [
       {
-        "id": "47aa580be9a59ef1",
+        "id": "d3fb1b3cc6df9a00",
         "type": "tabs",
         "children": [
           {
-            "id": "597f636078f99e09",
+            "id": "321051400d427261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21351da5f39383b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prova 1.md",
+                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7918982d09e2dcc8",
+    "id": "c3810e59b7dfee2f",
     "type": "split",
     "children": [
       {
-        "id": "ca225008214ff5be",
+        "id": "2ffbeaa0f3761a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "86a52b3f0037dc29",
+            "id": "4b56deda89a4e564",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "daaa28a9315dedfc",
+            "id": "2963ae06c3918815",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "3085ece82211acd9",
+            "id": "5f28766b395fde0e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2fb2b55a07ee6f52",
+    "id": "04e4e48723789bb3",
     "type": "split",
     "children": [
       {
-        "id": "bac5075c7ba59cb7",
+        "id": "dcee32089ca5af73",
         "type": "tabs",
         "children": [
           {
-            "id": "fab9d790b1609ea9",
+            "id": "fa65c95c63022b65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prova 1.md",
+                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "67e55a99e8238983",
+            "id": "a72a048778fe3991",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prova 1.md",
+                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5c1d361523f6bb97",
+            "id": "42ed526002533484",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "58250ec38210a07b",
+            "id": "ec7e38e967f4c8f1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prova 1.md"
+                "file": "Lezioni/4° Lezione (Algebra Booleana).md"
               }
             }
           }
@@ -151,40 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21351da5f39383b7",
+  "active": "321051400d427261",
   "lastOpenFiles": [
-    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
-    "Prova 1.md",
-    "Images/Pasted image 20241004113531.png",
-    "Compilatori, Intepretatori, Assemblatori.md",
-    "Lezioni/4° Lezione (Algebra Booleana).md",
-    "Images/Pasted image 20241004124125.png",
-    "Images/Pasted image 20241004123933.png",
-    "Images/Pasted image 20241004123812.png",
-    "Images/Pasted image 20241004123709.png",
-    "Images/Pasted image 20241004123530.png",
-    "Images/Pasted image 20241004123401.png",
-    "Images/Pasted image 20241004121959.png",
-    "Images/Pasted image 20241004121942.png",
-    "Images/Pasted image 20241004121750.png",
-    "Lezioni/3° Lezione.md",
     "Lezioni/2° Lezione (27,09,2024).md",
-    "Lezioni/1° Lezione (24,09,2024).md",
-    "Welcome.md",
-    "Esericizi/Tipologie di esercizi.md",
-    "Esericizi",
-    "Images",
-    "Excalidraw/Drawing 2024-09-24 11.51.10.excalidraw.md",
-    "Excalidraw",
-    "Lezioni"
+    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+    "Compilatori, Intepretatori, Assemblatori.md"
   ]
 }
