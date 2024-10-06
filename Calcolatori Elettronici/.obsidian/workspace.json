@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
+                "file": "Lezioni/3° Lezione.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
+                "file": "Lezioni/3° Lezione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/4° Lezione (Algebra Booleana).md",
+                "file": "Lezioni/3° Lezione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/4° Lezione (Algebra Booleana).md"
+                "file": "Lezioni/3° Lezione.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   },
   "active": "321051400d427261",
   "lastOpenFiles": [
+    "Lezioni/4° Lezione (Algebra Booleana).md",
     "Lezioni/2° Lezione (27,09,2024).md",
+    "Prova 1.md",
     "Lezioni/5° Lezione (Controllo delle versioni di git).md",
     "Compilatori, Intepretatori, Assemblatori.md"
   ]
