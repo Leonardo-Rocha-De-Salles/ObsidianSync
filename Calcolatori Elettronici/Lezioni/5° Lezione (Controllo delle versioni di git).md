@@ -51,9 +51,6 @@ Se uso git fetch prendo gli ultimi update da un utente nella repository, per poi
 
 
 
-
-
-
 ## Ciclo di vita di un file
 
 La creazione o modifica di un file possono essere non tracciati, al di fuori del progetto. Quando aggiungo il file al mio progetto diventa un file non modificato, se lo modifico diventa modificato e poi posso andarlo ad inserirlo nella sezione staged
@@ -83,7 +80,7 @@ git config --global user.email "user@email.com"
 - Si puo utilizzare git config --list per verificare la corretta impostazione dell'utente.
 - Omettendo il flag --global si possono impostare variabili di configurazioni locali per ciasun repository
 
-## Creare un repository locale
+## Creare un repository locale (workflow)
 
 Creiamo una cartella vuota, ci entriamo e scriviamo
 ```
@@ -91,32 +88,55 @@ git init
 git add README.md
 git commit -m "initial project version"
 ```
-Se vogliamo fare la copia locale di un repository per modificarlo 
+git init crea la cartella necessaria a mettere in comunicazione la nostra cartella con git.
+git add README.md dice a git che il file pre esistende readme adesso è da "controllare", ovvero è nel passo Staged. Ogni volta da adesso in poi che scriviamo per esempio *git status*, git ci dirà se un nostro file **staged** è stato modificato o meno.
+git commit -m "Message" farà uscire i nostri file added dallo staged al commit type, questo significa che è come se salvassimo tutte le modifiche applicate, preparandole ad essere inviate.
+Facendo git log possiamo vedere tutti i commit applicati.
+**git diff** ci fa vedere quello che è rimasto inalterato.
+
+
+Fino ad adesso la nostra git repository è rimasta locale, per renderale online:
+
+Adesso se vogliamo mettere i nostri file online e caricare per la prima volta i file alla nostra repository come prima di tutto dobbiamo dire a git qual'è la nostra repository ("Serve una chiave associata al computer e il nostro account github per permettere questa cosa").
+
+```
+git remote add origin <url>
+```
+
+Stiamo specificanto che questa remote repository è l'origine della nostra local git repository
+
+Adesso mettiamo online il nostro master branch
+
+```
+git push -u origin master
+```
+
+E' così abbiamo messo i nostri file nella online repository.
+
+Adesso se dovessi modificare o creare file, tutto come prima, i file create li mettiamo nella stage phase con git add, poit usiamo git commit per applicare le modifiche e infine basterà solo
+
+```
+git push 
+```
+
+Per metterle online
+
+Se vogliamo fare la copia locale di un repository online utilizziamo.
 ```
 git clone <url>
 ```
+Adesso se vogliamo aggiornare questa repository locale, utilizziamo
 
-## Commit di file
-ogni volta che effettuami una modifica che vogliamo salvare dobbiamo aggiungerlo all'area di stagin:
-	git add README.txt hello.java
-questo comando crea uno snapshot della versione corrente.
-Per spostare dalla staging alla repository dobbiamo effettuare l'operazione commit:
-	git commit -m "Fixing bug #22"
-Questi comandi operano nella verisone locale del repository.
+```
+git pull
+```
 
-per vedere lo stato attuale della repository
-	git status
 
 vedere cosa è stato modificato ma non inserito nello staging
 	git diff
 
 Vedere differenze nell'area di staging
 	git diff -cached
-
-
-## Logs
-elenco modifiche fatte
-	git log 
 
 
 ## Sincronizzare repository remoti

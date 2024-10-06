@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Lezioni/3° Lezione.md",
+=======
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+>>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04e4e48723789bb3",
@@ -85,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Lezioni/3° Lezione.md",
+=======
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+>>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Lezioni/3° Lezione.md",
+=======
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+>>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Lezioni/3° Lezione.md"
+=======
+                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md"
+>>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
               }
             }
           }
@@ -147,8 +164,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "321051400d427261",
   "lastOpenFiles": [
+=======
+  "active": "597f636078f99e09",
+  "lastOpenFiles": [
+    "Prova 1.md",
+    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+    "Images/Pasted image 20241004113531.png",
+    "Compilatori, Intepretatori, Assemblatori.md",
+>>>>>>> 0f9ff3e371204da17a67c5ad6f184c154944ae77
     "Lezioni/4° Lezione (Algebra Booleana).md",
     "Lezioni/2° Lezione (27,09,2024).md",
     "Prova 1.md",
