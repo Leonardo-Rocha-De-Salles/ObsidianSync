@@ -14,9 +14,11 @@ int main(){
 
 Questo è un programma base dove però abbiamo degli elementi essenziali:
 
-**<stdio.h>** sta per "standard input-output header", è l'header file della libreria standard del C, contiene definizioni, costanti e funzioni (come printf()). Comprare in quasi tutti i programmi.
+Qualsiasi stringa che utilizza # il cancelleto è un messaggio per il pre-processore. 
 
-**main()** è la funzione principale di un programma C, il punto di entratata dove il programma inizia a eseguire il codice.
+**<stdio.h>** sta per "standard input-output header", è l'header file della libreria standard del C, contiene definizioni, costanti e funzioni (come printf()), operazioni input e output. Comprare in quasi tutti i programmi.
+
+**main()** è la funzione principale di un programma C, il punto di entratata dove il programma inizia a eseguire il codice. Ogni programma in C deve avere una funzione main().
 Se la funzione main non ritorna niente in output possiamo scrivere.
 ```
 void main()
@@ -31,6 +33,8 @@ Possiamo mettere *void* anche in caso la funzione non prenda argomenti.
 **Davanti ad ogni funzione va messo il tipo di variabile in output.**
 
 # printf()
+
+Print Formatted
 
 Per fare il print di un messaggio di testo dobbiamo utilizzare la funzione printf() e una stringa. Adesso vediamo modi in cui si possono formattare questo messaggio.
 ```

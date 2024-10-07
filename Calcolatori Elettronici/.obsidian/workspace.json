@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2fb2b55a07ee6f52",
@@ -151,8 +150,8 @@
   "active": "597f636078f99e09",
   "lastOpenFiles": [
     "Pasted image 20241006210422.png",
-    "Prova 1.md",
     "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+    "Prova 1.md",
     "Images/Pasted image 20241004113531.png",
     "Compilatori, Intepretatori, Assemblatori.md",
     "Lezioni/4° Lezione (Algebra Booleana).md",
@@ -164,7 +163,6 @@
     "Images/Pasted image 20241004123401.png",
     "Images/Pasted image 20241004121959.png",
     "Images/Pasted image 20241004121942.png",
-    "Images/Pasted image 20241004121750.png",
     "Lezioni/3° Lezione.md",
     "Lezioni/2° Lezione (27,09,2024).md",
     "Lezioni/1° Lezione (24,09,2024).md",

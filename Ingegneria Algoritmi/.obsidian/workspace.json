@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/3° Lezione.md",
+                "file": "C/Linguaggio C.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/3° Lezione.md",
+                "file": "C/Linguaggio C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/3° Lezione.md",
+                "file": "C/Linguaggio C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/3° Lezione.md"
+                "file": "C/Linguaggio C.md"
               }
             }
           }
@@ -150,20 +150,20 @@
   },
   "active": "b013018b097b4fc5",
   "lastOpenFiles": [
-    "Pasted image 20241003172502.png",
-    "Pasted image 20241003172451.png",
-    "Pasted image 20241003172448.png",
-    "Pasted image 20241003172123.png",
-    "Pasted image 20241003171539.png",
-    "Pasted image 20241003170307.png",
-    "Pasted image 20241003163802.png",
-    "Pasted image 20241003163759.png",
-    "Pasted image 20241003163537.png",
-    "Pasted image 20241003163521.png",
-    "Lezioni/1° Lezione (Algoritmi).md",
+    "Images/Pasted image 20241003172502.png",
+    "Images/Pasted image 20241003160856.png",
     "Lezioni/3° Lezione.md",
+    "Images/Pasted image 20241003172451.png",
+    "Images/Pasted image 20241003172448.png",
+    "Images/Pasted image 20241003172123.png",
+    "Images/Pasted image 20241003171539.png",
+    "Images/Pasted image 20241003170307.png",
+    "Images/Pasted image 20241003163802.png",
+    "Images/Pasted image 20241003163759.png",
+    "Images/Pasted image 20241003163537.png",
+    "Images/Pasted image 20241003163521.png",
+    "Lezioni/1° Lezione (Algoritmi).md",
     "Lezioni/2° Lezione.md",
-    "Pasted image 20241003163205.png",
     "2024-09-30.md",
     "Excalidraw/Drawing 2024-09-30 10.13.10.excalidraw.md",
     "Excalidraw",
