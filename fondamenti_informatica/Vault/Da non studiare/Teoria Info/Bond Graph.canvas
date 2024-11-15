@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c4540716291e59a0","type":"file","file":"Da non studiare/Pics/Capture2.png","x":-380,"y":-715,"width":400,"height":295},
+		{"id":"d912f1b993c054fc","type":"file","file":"Da non studiare/Pics/Capture3.png","x":-380,"y":-340,"width":400,"height":294},
+		{"id":"565d7a079ea9c048","type":"text","text":"Flow Chart\n","x":-305,"y":-880,"width":250,"height":60,"color":"#000000"}
+	],
+	"edges":[
+		{"id":"f87a656882bd4349","fromNode":"c4540716291e59a0","fromSide":"bottom","toNode":"d912f1b993c054fc","toSide":"top"},
+		{"id":"4f460fc85786bae9","fromNode":"c4540716291e59a0","fromSide":"top","toNode":"565d7a079ea9c048","toSide":"bottom","toEnd":"none"}
+	]
+}

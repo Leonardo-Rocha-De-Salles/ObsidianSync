@@ -4,19 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "47aa580be9a59ef1",
+        "id": "ef46dd8952e55f6c",
         "type": "tabs",
+        "dimension": 52.49621785173979,
         "children": [
           {
-            "id": "597f636078f99e09",
+            "id": "8d6d3859eeebea71",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/9. z64 CU (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9. z64 CU (1)"
+            }
+          },
+          {
+            "id": "31ed2779c4ec3302",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/8. z64 PU.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8. z64 PU"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa2af2efeaeecc60",
+        "type": "tabs",
+        "dimension": 47.50378214826021,
+        "children": [
+          {
+            "id": "49357d3057c2f7d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "file": "Lezioni/10° Control Unit.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10° Control Unit"
             }
           }
         ]
@@ -39,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +100,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2fb2b55a07ee6f52",
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "file": "Lezioni/6° Lezione (Circuiti).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +134,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6° Lezione (Circuiti)"
             }
           },
           {
@@ -102,10 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md",
+                "file": "Lezioni/6° Lezione (Circuiti).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6° Lezione (Circuiti)"
             }
           },
           {
@@ -116,7 +161,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/5° Lezione (Controllo delle versioni di git).md"
-              }
+                "file": "Lezioni/6° Lezione (Circuiti).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6° Lezione (Circuiti)"
             }
           }
         ]
@@ -147,31 +196,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "597f636078f99e09",
+  "active": "8d6d3859eeebea71",
   "lastOpenFiles": [
-    "Pasted image 20241006210422.png",
-    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
-    "Prova 1.md",
-    "Images/Pasted image 20241004113531.png",
-    "Compilatori, Intepretatori, Assemblatori.md",
+    "Lezioni/9° Processing Unit.md",
+    "pdf/8. z64 PU.pdf",
+    "Lezioni/10° Control Unit.md",
+    "pdf/9. z64 CU (1).pdf",
+    "pdf/PDF.md",
+    "pdf/9. z64 CU.pdf",
+    "Pasted image 20241115114738.png",
+    "Pasted image 20241115114721.png",
+    "Pasted image 20241114182216.png",
+    "Pasted image 20241114182007.png",
+    "Images/Pasted image 20241112163249.png",
+    "Images/Pasted image 20241112165122.png",
+    "Images/Pasted image 20241112164931.png",
+    "Images/Pasted image 20241112164911.png",
+    "Images/Pasted image 20241112164106.png",
+    "Images/Pasted image 20241112164058.png",
+    "Untitled.md",
+    "Esame.md",
+    "Homework/Homework Hamming.md",
+    "Lezioni/8° Reti Sequenziali.md",
+    "Lezioni/6° Lezione (Circuiti).md",
+    "Lezioni/7° Reti combinatorie iterative.md",
+    "Excalidraw/Drawing 2024-09-24 11.51.10.excalidraw.md",
+    "pdf/6. Reti sequenziali.pdf",
+    "Homework",
+    "Lezioni/3° Lezione Codifica dei bit.md",
     "Lezioni/4° Lezione (Algebra Booleana).md",
-    "Images/Pasted image 20241004124125.png",
-    "Images/Pasted image 20241004123933.png",
-    "Images/Pasted image 20241004123812.png",
-    "Images/Pasted image 20241004123709.png",
-    "Images/Pasted image 20241004123530.png",
-    "Images/Pasted image 20241004123401.png",
-    "Images/Pasted image 20241004121959.png",
-    "Images/Pasted image 20241004121942.png",
-    "Lezioni/3° Lezione.md",
-    "Lezioni/2° Lezione (27,09,2024).md",
-    "Lezioni/1° Lezione (24,09,2024).md",
-    "Welcome.md",
+    "pdf/6. Reti iterative.pdf",
+    "pdf",
+    "Lezioni/5° Lezione (Controllo delle versioni di git).md",
     "Esericizi/Tipologie di esercizi.md",
+    "Lezioni/1° Lezione (24,09,2024).md",
+    "Lezioni/2° Lezione (27,09,2024).md",
+    "Prova 1.md",
+    "Lezioni/Compilatori, Intepretatori, Assemblatori.md",
+    "Welcome.md",
     "Esericizi",
     "Images",
-    "Excalidraw/Drawing 2024-09-24 11.51.10.excalidraw.md",
-    "Excalidraw",
-    "Lezioni"
+    "Excalidraw"
   ]
 }

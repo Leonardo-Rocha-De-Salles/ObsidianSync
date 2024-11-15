@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"dc8a885a67ada240","type":"file","file":"Da non studiare/Teoria Info/Von Neumann/Suddivisione della RAM.md","x":286,"y":517,"width":400,"height":400},
+		{"id":"fa514d4fa2d59a47","type":"file","file":"Da non studiare/Teoria Info/Von Neumann/Memoria RAM.md","x":287,"y":-166,"width":400,"height":400},
+		{"id":"e645d0ba251688d0","type":"file","file":"Da non studiare/Teoria Info/Von Neumann/CPU (Central Processing Unit).md","x":287,"y":-680,"width":400,"height":300},
+		{"id":"d1a2c2ab142a9a5f","type":"file","file":"Da non studiare/Teoria Info/Von Neumann/Memoria non volatile.md","x":1120,"y":-47,"width":400,"height":162},
+		{"id":"c93ad7ce4b45d0ab","x":-160,"y":687,"width":250,"height":60,"type":"text","text":"Bit e Byte"}
+	],
+	"edges":[
+		{"id":"c52ce75581060447","fromNode":"fa514d4fa2d59a47","fromSide":"right","toNode":"d1a2c2ab142a9a5f","toSide":"left","label":"Altro esempio \ndi memoria"},
+		{"id":"6073f1af8281d6d7","fromNode":"e645d0ba251688d0","fromSide":"bottom","toNode":"fa514d4fa2d59a47","toSide":"top","label":"Comunica con"},
+		{"id":"aee0893eeb8bf235","fromNode":"fa514d4fa2d59a47","fromSide":"bottom","toNode":"dc8a885a67ada240","toSide":"top"},
+		{"id":"7e8bc947e006f97a","fromNode":"c93ad7ce4b45d0ab","fromSide":"right","toNode":"dc8a885a67ada240","toSide":"left"}
+	]
+}

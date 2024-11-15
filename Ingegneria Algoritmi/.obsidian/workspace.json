@@ -4,22 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "55a931f755eb7770",
+        "id": "fc1a306a5ac4e881",
         "type": "tabs",
         "children": [
           {
-            "id": "b013018b097b4fc5",
+            "id": "58a26e9d17e327eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241111125932.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241111125932"
+            }
+          },
+          {
+            "id": "adb6ba963afd0acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Linguaggio C.md",
+                "file": "Sort Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sort Algorithms"
+            }
+          },
+          {
+            "id": "2511301f78d5f963",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-14 16.35.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-14 16.35.38.excalidraw"
+            }
+          },
+          {
+            "id": "2f90843ced40d204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lezioni/5° Strutture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5° Strutture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +97,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +107,28 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a661cd7f8912f4e2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/09-TipiDati.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "09-TipiDati"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 296.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Linguaggio C.md",
+                "file": "Tutoraggio/2° Tutoraggio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2° Tutoraggio"
             }
           },
           {
@@ -103,10 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Linguaggio C.md",
+                "file": "Tutoraggio/2° Tutoraggio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2° Tutoraggio"
             }
           },
           {
@@ -117,7 +180,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +191,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Linguaggio C.md"
-              }
+                "file": "Tutoraggio/2° Tutoraggio.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2° Tutoraggio"
             }
           }
         ]
@@ -148,31 +215,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b013018b097b4fc5",
+  "active": "adb6ba963afd0acc",
   "lastOpenFiles": [
-    "Images/Pasted image 20241003172502.png",
-    "Images/Pasted image 20241003160856.png",
+    "QuickSort.c",
+    "Pasted image 20241114164823.png",
+    "Pasted image 20241114164754.png",
+    "Pasted image 20241114164750.png",
+    "Excalidraw/Drawing 2024-11-14 16.35.38.excalidraw.md",
+    "Sort Algorithms.md",
+    "Pasted image 20241114150722.png",
+    "InsertionSorting.c",
+    "C/1° Linguaggio C.md",
+    "Tutoraggio.md",
+    "primofile.c",
+    "Pasted image 20241114133905.png",
+    "Images/Pasted image 20241111125932.png",
+    "Strutture ad Albero.md",
+    "Images/Pasted image 20241111125853.png",
+    "Images/Pasted image 20241111125601.png",
+    "Images/Pasted image 20241111125518.png",
+    "Images/Pasted image 20241111111114.png",
+    "Lezioni/7° Liste.md",
+    "C/2° Array.md",
+    "Lezioni/4° Puntatori.md",
+    "Lezioni/5° Strutture.md",
+    "Lezioni/6° Tipi di dato.md",
     "Lezioni/3° Lezione.md",
-    "Images/Pasted image 20241003172451.png",
-    "Images/Pasted image 20241003172448.png",
-    "Images/Pasted image 20241003172123.png",
-    "Images/Pasted image 20241003171539.png",
-    "Images/Pasted image 20241003170307.png",
-    "Images/Pasted image 20241003163802.png",
-    "Images/Pasted image 20241003163759.png",
-    "Images/Pasted image 20241003163537.png",
-    "Images/Pasted image 20241003163521.png",
+    "pdf/10-Liste.pdf",
+    "pdf/09-TipiDati.pdf",
+    "pdf/PDF.md",
+    "pdf/20-Alberi.pdf",
+    "Excalidraw/Drawing 2024-10-24 17.10.59.excalidraw.md",
+    "pdf/06-Strutture.pdf",
+    "pdf/05-Puntatori.pdf",
+    "Excalidraw/Drawing 2024-10-21 10.20.20.excalidraw.md",
+    "pdf",
+    "Tutoraggio/1° Tutoraggio (C).md",
+    "Tutoraggio/2° Tutoraggio.md",
+    "Lezioni/Ordine di grandezza delle funzioni.md",
     "Lezioni/1° Lezione (Algoritmi).md",
     "Lezioni/2° Lezione.md",
     "2024-09-30.md",
     "Excalidraw/Drawing 2024-09-30 10.13.10.excalidraw.md",
     "Excalidraw",
-    "Tutoraggio/1° Tutoraggio (C).md",
-    "C/Linguaggio C.md",
     "Tutoraggio",
-    "Images",
-    "C",
-    "Welcome.md",
-    "Lezioni"
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,1 @@
+Come harddisk e ssd, dove vengono immaggazinati dati.

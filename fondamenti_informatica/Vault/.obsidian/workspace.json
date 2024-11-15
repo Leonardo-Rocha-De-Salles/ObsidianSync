@@ -1,0 +1,420 @@
+{
+  "main": {
+    "id": "914ac8946be0669f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b660d76f8c040fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4988c2de018da252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Da non studiare/Teoria Info/Introduzione alla programmazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0358b454bee0b417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f9e2aa866c66e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f881b00455aa720",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Da non studiare/Teoria Info/Bond Graph.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": -463,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "629dcd8eef724e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di JES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82471e080c283076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di JES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3139eda6257f112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Tipi esercizi/Matrici/Cosa è una matrice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a47eb745eea302c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esercizi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4d7f52431c9201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Variabili/Dati mutabili e immutibali.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e45917a45834f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esercizi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0e8375b963e53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10d08576103f17d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Funzioni/Funzioni di python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "415df8e17d6fab14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Espressioni logiche python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ac3a5234131e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Variabili/List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c55cd0364e849b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Variabili/Tuple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2123bf835a51b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Variabili/List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97827277a8f90969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JES/Variabili/Dizionari.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "998a1e2f68755d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997c64e2d5da9c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f24545b2a8cd63e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "88fd201ff2a84c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b17fb3a0caf6205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a11fabd175f0fca0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b887258cd826626d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c689f2510b4ade6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58fb70f1a86b661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd235f543c68827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Libraries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6df98f822c49f100",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Libraries.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e0f7e1ef415d6960",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91673bd6845ee924",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Libraries.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "997c64e2d5da9c1c",
+  "lastOpenFiles": [
+    "Pasted image 20240522124432.png",
+    "Pasted image 20240522124418.png",
+    "Da non studiare/Pics/Pasted image 20240522104222.png",
+    "Libraries.md",
+    "Files.md",
+    "Da non studiare/Pics/Pasted image 20240522104038.png",
+    "JES/Variabili/Dizionari.md",
+    "Da non studiare/Pics/Pasted image 20240519212724.png",
+    "JES/Variabili/Dati mutabili e immutibali.md",
+    "JES/Variabili/Tuple.md",
+    "Da non studiare/Pics/Pasted image 20240519152248.png",
+    "JES/Variabili/List.md",
+    "Da non studiare/Pics/Pasted image 20240519152231.png",
+    "JES/Variabili/Sequences.md",
+    "JES/Variabili/Operazioni con le stringhe.md",
+    "Da non studiare/Pics/Pasted image 20240519142031.png",
+    "JES/Variabili/Namespace.md",
+    "JES/Variabili/Tipi di Variabili.md",
+    "JES/Variabili/JES BEST PRACTICE.md",
+    "JES/Espressioni logiche python.md",
+    "JES/Creare e modificare testi su immagini.md",
+    "Esercizi.md",
+    "Da non studiare",
+    "JES/Funzioni/Funzioni di JES.md",
+    "Da non studiare/Pics/Pasted image 20240519135634.png",
+    "JES/Funzioni/Funzioni di python.md",
+    "Da non studiare/Pics/Pasted image 20240518221630.png",
+    "Da non studiare/Pics/Pasted image 20240518181317.png",
+    "JES/Funzioni/Descrivere e Creare una funzione.md",
+    "JES/Tipi esercizi/Matrici/Cosa è una matrice.md",
+    "JES/Tipi esercizi/Immagini/Come è strutturata un'immagine.md",
+    "JES/Precisazioni per Esame/Sintassi per esame.md",
+    "Da non studiare/Teoria Info/Von Neumann/CPU (Central Processing Unit).md",
+    "JES/Tipi esercizi/Matrici",
+    "Da non studiare/Teoria Info/Introduzione alla programmazione.md",
+    "Da non studiare/Teoria Info/Bond Graph.canvas",
+    "Da non studiare/Teoria Info/Architettura di von neumann.canvas",
+    "Da non studiare/Teoria Info/Von Neumann/Memoria non volatile.md",
+    "JES/Tipi esercizi/Immagini",
+    "JES/Tipi esercizi",
+    "JES/Precisazioni per Esame",
+    "Da non studiare/Teoria Info",
+    "JES/Funzioni",
+    "JES/Variabili",
+    "JES",
+    "Da non studiare/Teoria Info/Von Neumann/Memoria RAM.md",
+    "Da non studiare/Teoria Info/Von Neumann/Suddivisione della RAM.md",
+    "Da non studiare/Teoria Info/Von Neumann"
+  ]
+}

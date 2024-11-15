@@ -1,0 +1,1 @@
+[Link per tabella di indeciione](https://www.youmath.it/lezioni/analisi-matematica/limiti-continuita-e-asintoti/134-le-forme-di-indecisione-metodi-di-risoluzione.html)
