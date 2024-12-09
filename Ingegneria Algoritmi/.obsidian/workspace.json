@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1a306a5ac4e881",
+        "id": "320409287fe8311b",
         "type": "tabs",
         "children": [
           {
-            "id": "58a26e9d17e327eb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20241111125932.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241111125932"
-            }
-          },
-          {
-            "id": "adb6ba963afd0acc",
+            "id": "8af0502c4234fc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort Algorithms.md",
+                "file": "Tutoraggio/1° Tutoraggio (C).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sort Algorithms"
+              "title": "1° Tutoraggio (C)"
             }
           },
           {
-            "id": "2511301f78d5f963",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-14 16.35.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-14 16.35.38.excalidraw"
-            }
-          },
-          {
-            "id": "2f90843ced40d204",
+            "id": "c8a37a647ab2c832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/5° Strutture.md",
+                "file": "Tutoraggio/Analisi Computazionale 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5° Strutture"
+              "title": "Analisi Computazionale 1"
             }
           }
         ],
@@ -128,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "e8b88fadcce2d7a2",
@@ -215,50 +190,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "adb6ba963afd0acc",
+  "active": "c8a37a647ab2c832",
   "lastOpenFiles": [
-    "QuickSort.c",
-    "Pasted image 20241114164823.png",
-    "Pasted image 20241114164754.png",
-    "Pasted image 20241114164750.png",
-    "Excalidraw/Drawing 2024-11-14 16.35.38.excalidraw.md",
+    "Pasted image 20241206165710.png",
+    "Pasted image 20241206165658.png",
+    "Pasted image 20241206165649.png",
+    "Pasted image 20241206165635.png",
+    "Pasted image 20241206165617.png",
+    "Pasted image 20241206165100.png",
+    "Tutoraggio/1° Tutoraggio (C).md",
+    "Tutoraggio/Analisi Computazionale 1.md",
+    "Graph.md",
+    "Images/Pasted image 20241205211124.png",
+    "Progettazione di Algoritmi.md",
+    "Images/Pasted image 20241205214110.png",
+    "Images/Pasted image 20241205214003.png",
+    "Tutoraggio/Tutoraggio Analisi Computazionale 2.md",
+    "Images/Pasted image 20241205212221.png",
+    "Images/Pasted image 20241205212041.png",
+    "pdf/analisi_computazionale_2.pdf",
+    "pdf/50-Grafi.pdf",
+    "Max-Flow e Matching.md",
+    "pdf/PDF.md",
+    "Heap Data Structure.md",
+    "HashTables.md",
+    "a.out",
+    "doublearray.c",
     "Sort Algorithms.md",
-    "Pasted image 20241114150722.png",
+    "Strutture ad Albero.md",
+    "Excalidraw/Drawing 2024-11-21 12.46.00.excalidraw.md",
+    "Lezioni/5° Strutture.md",
+    "Excalidraw/Drawing 2024-11-14 16.35.38.excalidraw.md",
+    "Lezioni/7° Liste.md",
+    "Stack.c",
+    "Queue.c",
+    "QuickSort.c",
     "InsertionSorting.c",
     "C/1° Linguaggio C.md",
     "Tutoraggio.md",
     "primofile.c",
-    "Pasted image 20241114133905.png",
-    "Images/Pasted image 20241111125932.png",
-    "Strutture ad Albero.md",
-    "Images/Pasted image 20241111125853.png",
-    "Images/Pasted image 20241111125601.png",
-    "Images/Pasted image 20241111125518.png",
-    "Images/Pasted image 20241111111114.png",
-    "Lezioni/7° Liste.md",
     "C/2° Array.md",
     "Lezioni/4° Puntatori.md",
-    "Lezioni/5° Strutture.md",
     "Lezioni/6° Tipi di dato.md",
     "Lezioni/3° Lezione.md",
     "pdf/10-Liste.pdf",
-    "pdf/09-TipiDati.pdf",
-    "pdf/PDF.md",
-    "pdf/20-Alberi.pdf",
     "Excalidraw/Drawing 2024-10-24 17.10.59.excalidraw.md",
-    "pdf/06-Strutture.pdf",
-    "pdf/05-Puntatori.pdf",
     "Excalidraw/Drawing 2024-10-21 10.20.20.excalidraw.md",
-    "pdf",
-    "Tutoraggio/1° Tutoraggio (C).md",
     "Tutoraggio/2° Tutoraggio.md",
-    "Lezioni/Ordine di grandezza delle funzioni.md",
-    "Lezioni/1° Lezione (Algoritmi).md",
-    "Lezioni/2° Lezione.md",
-    "2024-09-30.md",
-    "Excalidraw/Drawing 2024-09-30 10.13.10.excalidraw.md",
-    "Excalidraw",
-    "Tutoraggio",
-    "Welcome.md"
+    "Lezioni/Ordine di grandezza delle funzioni.md"
   ]
 }

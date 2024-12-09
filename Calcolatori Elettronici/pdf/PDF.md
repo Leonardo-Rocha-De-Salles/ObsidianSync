@@ -1,3 +1,6 @@
+![[13. Input e output.pdf]]
+![[12. Gerarchia di memoria.pdf]]![[11. Binary Exploitation.pdf]]
+![[10. Assembly.pdf]]
 ![[9. z64 CU (1).pdf]]
 ![[9. z64 CU.pdf]]
 ![[6. Reti iterative.pdf]]

@@ -222,13 +222,34 @@ Si lavora quindi sempre con l'indice iniziale della nostra struttura dati.
 
 ![[Pasted image 20241112153426.png]]
 
+![[Pasted image 20241115164650.png]]
+
 L'indirizzo base e l'indice sono *registri general purpose*, mentre la dimensione e spiazzamento del dato sono codificate nell'istruzione.
 
 Determinare un indirizzo di memoria è complesso, bisogna lasciarlo fare alla PU.
 
+Lo spiazzamento ci dice a quanta distanza di memoria dobbiamo andare, per esempio.
+
+movq %rax, 0xaaaa(%rax, %rcx, 8)
+
+![[Pasted image 20241115164357.png]]
+
+0xaaaa(%rax, %rcx, 8) è lo spiazzamento calcolato come %rax+%rcx\*8
+
+Quindi 0xaaaa è lo spiazzamento, ovvero da dove iniziamo a puntare la memoria, per esempio uno struct, dopo dichè ci spostiamo di %rax+%rcx\*8, dove %rax potrebbe essere un dato, mentre %rcx\*8 un array di dati.
+
 ![[Pasted image 20241112153910.png]]
 
 Per il calcolo dello spiazzamento e quindi trovare l'indirizzo di memoria di interesse abbiamo bisogno della ALU, che prendo le informazione dal **MEMORY ADDRESS REIGISTER**.
+Nel MAR c'è l'indirizzo di memoria a cui a noi interessa leggere i dati, e possiamo anche appunto calcolare il successivo tramite lo spiazzamento.
+
+Il MDR memory data register, contiene i dati letti o da scrivere in memoria.
+
+
+Notare come ciò che comunica direttamente con i registri etc.. è la RAM, infatti è anche in essa che vengono salvati i .text, stack, .data etc... e comunica direttamente con la CPU per scambio di dati di memoria tramite i BUS.
+Mentre i non volatile memories come HDD o SSD, comunicano con la CPU per mandare i loro programmi all'interno della RAM, con ulteriore BUS non collegati alla CPU.
+
+
 
 # Architettura finale CPU
 

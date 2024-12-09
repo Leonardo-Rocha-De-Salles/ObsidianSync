@@ -79,3 +79,10 @@ $$O(nlog(n))$$
 - Divide : dividiamo l'array in due finchè non può più essere diviso
 - Tutti i sotto array sono sorted
 - Vengono Merged togheter.
+
+# HeapSort
+Metodo di rappresentazione di code con priorità, ci permette di individuare un ordinamento di complessità O(nlog(n)).
+Selezionare l'elemento con chiave più piccola;
+Agigungere un nuovo elemento alla struttura dati.
+
+Non è altro che un albero binario dove il nodo ha la chiave associata minore dei figli.

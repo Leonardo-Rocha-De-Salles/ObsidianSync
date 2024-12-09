@@ -76,6 +76,13 @@ Se io faccio head -> link, ho come risultato il pointer che punto al prossimo no
 Ma se io faccio head -> link -> sto dicendendo NodeSuccessivo -> link,
 Quindi sto prendendo il link del secondo node, ovvero il pointer che punta al terzo e così via..
 
+
+
+# Codice Lista Singola
+
+
+
+
 # Liste con puntatore doppio
 Ogni nodo della lista ha 3 componenti:
 - value
@@ -96,7 +103,7 @@ Il costo medio di ogni singolo inserimento è O(N), possiamo però invece di all
 
 
 
-# Pile
+# Pile(STACK)
 
 E' un modo di gestire la lista dove:
 - Gli inserimenti avvengono solo dopo l'ultimo elemento
@@ -106,7 +113,8 @@ Abbiamo come metodi:
 - pop
 - top (l'elemento incima alla pila ovvero l'ultimo)
 
-# Coda
+![[Stack.c]]
+# Coda(QUEUE)
 - Gli eventi avvengono solo ad un estremo della lista, che sia inizio o fine.
 - La cancellazione e inserimento avviene solo all'estremo scelto.
 Metodi:
@@ -114,7 +122,7 @@ Metodi:
 - dequeue (cancella elemento e ritorna quello cancellato)
 
 
-
+![[Queue.c]]
 
 
 
